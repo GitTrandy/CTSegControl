@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CB3967A6B2545E1E9A4F884C814AA15A55AE18BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CB3967A6B2545E1E9A4F884C814AA15A55AE18BB" : 0,
+    "33D09C8DB48E0F1ADD82B3F09753FC40D599AE8A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7ADE9BF3-5473-4905-A175-5463CEB38E84",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CB3967A6B2545E1E9A4F884C814AA15A55AE18BB" : "CTSegControl\/",
+    "33D09C8DB48E0F1ADD82B3F09753FC40D599AE8A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CTSegControl",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CTSegControl.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gitfly\/vc_cn_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33D09C8DB48E0F1ADD82B3F09753FC40D599AE8A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:GitTrandy\/CTSegControl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CB3967A6B2545E1E9A4F884C814AA15A55AE18BB"
+    }
+  ]
+}
